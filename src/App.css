@@ -1,0 +1,22 @@
+.app-container{
+  display: flex;
+
+  
+}
+
+.content{
+  width:100%;
+}
+
+.reaction{
+  margin:15px 0 0 0;
+
+}
+
+.create-post{
+  
+  width:80%;
+ 
+
+}
+
